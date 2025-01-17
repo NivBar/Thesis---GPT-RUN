@@ -1,7 +1,7 @@
-# GPTRUN
+# GPT RUN
 
 ## Overview
-BotFollowupRanker is a framework for generating and evaluating automated responses using various ranking and validation techniques. It processes queries, generates follow-ups using GPT-based models, and validates responses for competition-based evaluation.
+A framework for generating and evaluating automated responses using various ranking and validation techniques. It processes queries, generates follow-ups using GPT-based models, and validates responses for competition-based evaluation.
 
 ## File Breakdown
 
