@@ -1,0 +1,317 @@
+*** using query_id: 51, username: 195 ranking 2nd in previous rank for query ***
+
+
+bot name:  dynamic_tops , formal nickname:  DYN_1100T2 
+
+
+[{'content': 'Edit the candidate document to improve its search engine ranking '
+             'for the candidate query, aiming for the highest rank (1 being '
+             "the highest). Use the black box search engine's past rankings "
+             'over various queries, provided as context by the user, to guide '
+             'your edits. Focus on editing the most impactful sentences to '
+             'enhance ranking potential. Target an edited document length of '
+             'around 147 words, not exceeding 150 words. Ensure the edited '
+             'document is very similar to the candidate document. Generate '
+             'only the edited document, without additional comments or '
+             'titles.\n'
+             '\n'
+             'Input:\n'
+             '\n'
+             '- Candidate Query: 195_string\n'
+             '\n'
+             '- Candidate Document: doc_ep_6_qid_195_user_51_pos_4',
+  'role': 'system'},
+ {'content': '\n'
+             '\n'
+             'query: 193_string\n'
+             '\n'
+             'ranking history of the user that ranked 1 in latest ranking:\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_6_qid_193_user_30_pos_1\n'
+             '\n'
+             'latest ranking: 1\n'
+             '\n'
+             '* document: doc_ep_5_qid_193_user_30_pos_3\n'
+             '\n'
+             'second to latest ranking: 3',
+  'role': 'user'}]
+
+
+#########################################################
+
+
+bot name:  pointwise , formal nickname:  POW_1300 
+
+
+[{'content': 'Edit the candidate document to improve its search engine ranking '
+             'for the candidate query, aiming for the highest rank (1 being '
+             "the highest). Use the black box search engine's past rankings "
+             'over various queries, provided as context by the user, to guide '
+             'your edits. Focus on editing the most impactful sentences to '
+             'enhance ranking potential. Target an edited document length of '
+             'around 147 words, not exceeding 150 words. Ensure the edited '
+             'document is very similar to the candidate document. Generate '
+             'only the edited document, without additional comments or '
+             'titles.\n'
+             '\n'
+             'Input:\n'
+             '\n'
+             '- Candidate Query: 195_string\n'
+             '\n'
+             '- Candidate Document: doc_ep_6_qid_195_user_51_pos_4',
+  'role': 'system'},
+ {'content': '\n'
+             '\n'
+             'query: 78_string\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_6_qid_78_user_34_pos_1\n'
+             '\n'
+             'latest ranking: 1\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_5_qid_78_user_34_pos_1\n'
+             '\n'
+             'second to latest ranking: 1\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_4_qid_78_user_4_pos_1\n'
+             '\n'
+             'third to latest ranking: 1',
+  'role': 'user'}]
+
+
+#########################################################
+
+
+bot name:  pairwise_random , formal nickname:  PAW_1301R 
+
+
+[{'content': 'Edit the candidate document to improve its search engine ranking '
+             'for the candidate query, aiming for the highest rank (1 being '
+             "the highest). Use the black box search engine's past rankings "
+             'over various queries, provided as context by the user, to guide '
+             'your edits. Focus on editing the most impactful sentences to '
+             'enhance ranking potential. Target an edited document length of '
+             'around 147 words, not exceeding 150 words. Ensure the edited '
+             'document is very similar to the candidate document. Generate '
+             'only the edited document, without additional comments or '
+             'titles.\n'
+             '\n'
+             'Input:\n'
+             '\n'
+             '- Candidate Query: 195_string\n'
+             '\n'
+             '- Candidate Document: doc_ep_6_qid_195_user_51_pos_4',
+  'role': 'system'},
+ {'content': '\n'
+             '\n'
+             'query: 195_string\n'
+             '\n'
+             '* document: doc_ep_6_qid_195_user_13_pos_3\n'
+             '\n'
+             'latest ranking: 3\n'
+             '\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_6_qid_195_user_17_pos_5\n'
+             '\n'
+             'latest ranking: 5\n'
+             '\n'
+             '\n'
+             '\n'
+             'query: 195_string\n'
+             '\n'
+             '* document: doc_ep_5_qid_195_user_13_pos_1\n'
+             '\n'
+             'second to latest ranking: 1\n'
+             '\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_5_qid_195_user_43_pos_3\n'
+             '\n'
+             'second to latest ranking: 3\n'
+             '\n'
+             '\n'
+             '\n'
+             'query: 195_string\n'
+             '\n'
+             '* document: doc_ep_4_qid_195_user_13_pos_1\n'
+             '\n'
+             'third to latest ranking: 1\n'
+             '\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_4_qid_195_user_35_pos_4\n'
+             '\n'
+             'third to latest ranking: 4',
+  'role': 'user'}]
+
+
+#########################################################
+
+
+bot name:  dynamic_random , formal nickname:  DYN_1201R2 
+
+
+[{'content': 'Edit the candidate document to improve its search engine ranking '
+             'for the candidate query, aiming for the highest rank (1 being '
+             "the highest). Use the black box search engine's past rankings "
+             'over various queries, provided as context by the user, to guide '
+             'your edits. Focus on editing the most impactful sentences to '
+             'enhance ranking potential. Target an edited document length of '
+             'around 147 words, not exceeding 150 words. Ensure the edited '
+             'document is very similar to the candidate document. Generate '
+             'only the edited document, without additional comments or '
+             'titles.\n'
+             '\n'
+             'Input:\n'
+             '\n'
+             '- Candidate Query: 195_string\n'
+             '\n'
+             '- Candidate Document: doc_ep_6_qid_195_user_51_pos_4',
+  'role': 'system'},
+ {'content': '\n'
+             '\n'
+             'query: 195_string\n'
+             '\n'
+             'ranking history of the user that ranked 2 in latest ranking:\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_6_qid_195_user_35_pos_2\n'
+             '\n'
+             'latest ranking: 2\n'
+             '\n'
+             '* document: doc_ep_5_qid_195_user_35_pos_2\n'
+             '\n'
+             'second to latest ranking: 2\n'
+             '\n'
+             '\n'
+             '\n'
+             'query: 195_string\n'
+             '\n'
+             'ranking history of the user that ranked 5 in latest ranking:\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_6_qid_195_user_17_pos_5\n'
+             '\n'
+             'latest ranking: 5\n'
+             '\n'
+             '* document: doc_ep_5_qid_195_user_17_pos_5\n'
+             '\n'
+             'second to latest ranking: 5',
+  'role': 'user'}]
+
+
+#########################################################
+
+
+bot name:  pairwise_tops , formal nickname:  PAW_1210T 
+
+
+[{'content': 'Edit the candidate document to improve its search engine ranking '
+             'for the candidate query, aiming for the highest rank (1 being '
+             "the highest). Use the black box search engine's past rankings "
+             'over various queries, provided as context by the user, to guide '
+             'your edits. Focus on editing the most impactful sentences to '
+             'enhance ranking potential. Target an edited document length of '
+             'around 147 words, not exceeding 150 words. Ensure the edited '
+             'document is very similar to the candidate document. Generate '
+             'only the edited document, without additional comments or '
+             'titles.\n'
+             '\n'
+             'Input:\n'
+             '\n'
+             '- Candidate Query: 195_string\n'
+             '\n'
+             '- Candidate Document: doc_ep_6_qid_195_user_51_pos_4\n'
+             '\n'
+             '- latest Ranking: 4',
+  'role': 'system'},
+ {'content': '\n'
+             '\n'
+             'query: 51_string\n'
+             '\n'
+             '* document: doc_ep_6_qid_51_user_4_pos_1\n'
+             '\n'
+             'latest ranking: 1\n'
+             '\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_6_qid_51_user_7_pos_3\n'
+             '\n'
+             'latest ranking: 3\n'
+             '\n'
+             '\n'
+             'query: 51_string\n'
+             '\n'
+             '* document: doc_ep_5_qid_51_user_4_pos_1\n'
+             '\n'
+             'second to latest ranking: 1\n'
+             '\n'
+             '\n'
+             '\n'
+             '* document: doc_ep_5_qid_51_user_46_pos_3\n'
+             '\n'
+             'second to latest ranking: 3',
+  'role': 'user'}]
+
+
+#########################################################
+
+
+bot name:  listwise , formal nickname:  LIW_1201 
+
+
+[{'content': 'Edit the candidate document to improve its search engine ranking '
+             'for the candidate query, aiming for the highest rank (1 being '
+             "the highest). Use the black box search engine's past rankings "
+             'over various queries, provided as context by the user, to guide '
+             'your edits. Focus on editing the most impactful sentences to '
+             'enhance ranking potential. Target an edited document length of '
+             'around 147 words, not exceeding 150 words. Ensure the edited '
+             'document is very similar to the candidate document. Generate '
+             'only the edited document, without additional comments or '
+             'titles.\n'
+             '\n'
+             'Input:\n'
+             '\n'
+             '- Candidate Query: 195_string\n'
+             '\n'
+             '- Candidate Document: doc_ep_6_qid_195_user_51_pos_4',
+  'role': 'system'},
+ {'content': '\n'
+             '\n'
+             'query: 195_string\n'
+             '\n'
+             '* documents ordered by latest ranking from highest to lowest in '
+             'relation to the query:\n'
+             '\n'
+             '\n'
+             '* doc_ep_6_qid_195_user_43_pos_1\n'
+             '\n'
+             '\n'
+             '* doc_ep_6_qid_195_user_35_pos_2\n'
+             '\n'
+             '\n'
+             '* doc_ep_6_qid_195_user_13_pos_3\n'
+             '\n'
+             '\n'
+             '* doc_ep_6_qid_195_user_17_pos_5\n'
+             '\n'
+             '\n'
+             '\n'
+             '\n'
+             '\n'
+             '* documents ranked by second to latest ranking from highest to '
+             'lowest in relation to the query:\n'
+             '1. doc_ep_5_qid_195_user_13_pos_1\n'
+             '2. doc_ep_5_qid_195_user_35_pos_2\n'
+             '3. doc_ep_5_qid_195_user_43_pos_3\n'
+             '4. doc_ep_5_qid_195_user_51_pos_4\n'
+             '5. doc_ep_5_qid_195_user_17_pos_5\n',
+  'role': 'user'}]
+
+
+#########################################################
